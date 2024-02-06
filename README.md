@@ -2,7 +2,7 @@
 - 👀 Eu estou interessado em estudar
 - 🌱 Eu estou aprendendo HTML, CSS e JavaScript
 - 💞️ Eu quero colaborar com meu colegas
-- 📫 Como falar comigo pelo meu gmail
+- 📫 Como falar comigo pelo meu gmail:giovana.sizinande@escola.pr.gov.br
 - 😄 Pronomes: ela dela
 - ⚡ Fato engraçado: nada
 
